@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use HyperTok in your work, please cite the manuscript below."
+title: "HyperTok paper companion"
+authors:
+  - family-names: Fang
+    given-names: Qihang
+  - family-names: Tang
+    given-names: Chengcheng
+  - family-names: Yang
+    given-names: Yanchao
+repository-code: "https://github.com/qhFang/HyperTok-PDF"
+preferred-citation:
+  type: article
+  title: "Unified Image Tokenization with FiLM-based Decoupling for Generation and Understanding"
+  authors:
+    - family-names: Fang
+      given-names: Qihang
+    - family-names: Tang
+      given-names: Chengcheng
+    - family-names: Yang
+      given-names: Yanchao
+  year: 2026
+  notes: "Preprint"
